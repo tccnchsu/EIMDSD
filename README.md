@@ -6,7 +6,7 @@ The project proposes an eye detection and image segmentation data set EIMDSD for
 
 Database Access
 
-Please fill out the Dataset License Agreement, and email with the subject "Eye Image Detection and Segmentation dataset" to tccnchsu@yahoo.com.tw.
+Please fill out the Dataset License Agreement, and email with the subject "Eye Image Detection and Segmentation dataset" to 61201903@fjut.edu.cn.
 
 After getting a code, you can access the data set, you can download from URL https://pan.baidu.com/s/1Xav0dU6clHUUZh-GMopcYw 
 
