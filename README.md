@@ -8,6 +8,6 @@ Database Access
 
 Please fill out the Dataset License Agreement, and email with the subject "Eye Image Detection and Segmentation dataset" to 61201903@fjut.edu.cn.
 
-After getting a code, you can access the data set, you can download from URL https://pan.baidu.com/s/1Xav0dU6clHUUZh-GMopcYw 
+After getting a code, you can access the data set, you can download from URL 链接：https://pan.baidu.com/s/1LzLyIAC5257joXswhcC6aw 
 
 Citation The following publication must be cited whenever making use of this dataset in any paper, publication, or report.
