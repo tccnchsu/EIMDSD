@@ -5,4 +5,8 @@ Introduction
 
 This dataset has various scale, pose, illumination, skin color, and occlusion factors. This variability in our dataset can make the trained model more robust to natural environments. The dataset can help the training tasks required for eye detection and eye region segmentation to promote research and development in the field of eye detection and eye region segmentation.
 
+Database Access
+Please fill out the Dataset License Agreement, and email with the subject "Eye Image Detection and Segmentation dataset" to tccnchsu@yahoo.com.tw.
+After getting a code, you can access the data set, you can download from URL https://pan.baidu.com/s/1Xav0dU6clHUUZh-GMopcYw 
+
 Citation The following publication must be cited whenever making use of this dataset in any paper, publication, or report.
